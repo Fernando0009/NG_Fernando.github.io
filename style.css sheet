@@ -1,0 +1,21 @@
+a:link {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #3366ff;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid #3366ff;
+  font-family: Arial,Helvetica,sans-serif;
+  color: #3366ff;
+  text-decoration: underline;
+}
+a:visited {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #3366ff;
+  text-decoration: none;
+}
+a:active {
+  color: #3366ff;
+  font-family: Arial,Helvetica,sans-serif;
+  text-decoration: none;
+}
